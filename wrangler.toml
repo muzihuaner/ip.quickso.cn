@@ -6,5 +6,5 @@ compatibility_date = "2024-05-13"
 workers_dev = false
 logpush = true
 routes = [
-    { pattern = "ip.ajam.dev/*", zone_name = "ajam.dev" }
+    { pattern = "ip.quickso.cn/*", zone_name = "quickso.cn" }
 ]
